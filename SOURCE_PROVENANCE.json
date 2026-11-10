@@ -1,0 +1,23 @@
+{
+  "source_archive": "HVAC-Building-GitHub-v06.zip",
+  "retained_files_sha256": {
+    "engine.py": "a29985de6b03a336435a18a3c548a2ccbc8275c055dc33a9475e49ea38485c1f",
+    "heating.py": "eb046e77f29e150e3a21edfe45cd3db11d5ffa764d43a0a42774ce6f9efa7f17",
+    "ventilation.py": "14b451b78510b8ff8dcba0bb026bdf2673bc4a762a9b6264257c1235ce0449ce",
+    "exploitation.py": "5109ad3c98007e9d3f9d6f44cf03fe43da6c4c6e37183fadcfc5d0e9fd5d144c",
+    "validation.py": "9b201461da9749f232ca8b0f2da77dfee04b61fb7ef6adf582cf5e9522b99e35",
+    "assistant_local.py": "4e0edb38626f6c317387c68352ad307848037d6758a7a75b7768583a07721001",
+    "lighting.py": "12cb983a808db733427a5be6391e19d24479b03d4e4c1cc7bfde8b244c2482ec",
+    "tests_smoke.py": "30de4167ea53898f7236ff8c9c9492fcdf95b661120160c2a4b13053afe70320",
+    "economics.py": "a93a14350f89bae91dcfc9a772dedc39a56b240106aca5cb800ca850a0dd045b",
+    "data_model.py": "06bf61106c1af842b05f2bda185ee5e72ff48bf74eea666df84fd6468ec16c18",
+    "recommendations.py": "da3a214e0d32a4d8f7dff36966e7e7b1f2491131d5f7fd1bbea956090622d428",
+    "hot_water.py": "022f12468ba165964041736048385ad5fbd6299c5bb258517b25bf964b4cd669",
+    "carbon.py": "36625ab8299dd642ba992acdd33bc1da15b6049e243427dfb153c89fee412bce",
+    "cooling.py": "96d45fbb969fa3efba48bae22df6d21ddde16560496cda5b2a6efa1b49fc8f15",
+    "report_pdf.py": "5da743ce1a958e7dfe5877c732ab71dba207410e10f77aba3cd26d99539156fc",
+    "diagnostic_expert.py": "875125559bb920c1649ff361893cfe7c1699926afd0c62aef0c07097238c4645",
+    "data/emission_factors.json": "87013bab1c6bb10ea2395dbece810d3a4151cc48f02d15654927314d860035e3",
+    "data/diagnostics_rules.json": "18dabc667a824801ab337251fec536a9dcc6a6a754172bfac64e4104c6a355ff"
+  }
+}
