@@ -1,5 +1,5 @@
 streamlit==1.64.0
-pandas==2.2.3
+pandas==2.3.3
 reportlab==4.4.9
 requests>=2.32,<3
 openai>=1.50
